@@ -17,7 +17,6 @@
   ‣ POI Recommendation 📍  
   ‣ Graph Neural Networks 🔗  
   ‣ Diffusion Models 🌫️  
-  ‣ Embodied Navigation 🤖
 - 💻 Coding with: Python 🐍 / PyTorch 🔥 / C++ 🚀
 - 🎧 Music fan:  
   💖 Taylor Swift / 🌸 Selena Gomez / ✨ Gracie Abrams / 🔥 Miley Cyrus / 🎤 Lady Gaga  
