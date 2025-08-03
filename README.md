@@ -16,11 +16,12 @@
   ‣ Spatio-temporal Data Mining 🌍  
   ‣ POI Recommendation 📍  
   ‣ Graph Neural Networks 🔗  
-  ‣ Diffusion Models 🌫️  
-- 💻 Coding with: Python 🐍 / PyTorch 🔥 / C++ 🚀
+  ‣ Diffusion Models 🌫️
+  ‣ Super Resolution 💻
+- Coding with: Python 🐍 / PyTorch 🔥 / C++ 🚀
 - 🎧 Music fan:  
   💖 Taylor Swift / 🌸 Selena Gomez / ✨ Gracie Abrams / 🔥 Miley Cyrus / 🎤 Lady Gaga  
-- 🍿 Watching movies | 🏸 Playing badminton | 🎶 Chasing good tunes
+- 🍿 Watching movies | 🏸 Playing badminton | 🎶 Listening music
 
 ---
 
