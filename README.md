@@ -16,7 +16,7 @@
   ‣ Spatio-temporal Data Mining 🌍  
   ‣ POI Recommendation 📍  
   ‣ Graph Neural Networks 🔗  
-  ‣ Diffusion Models 🌫️
+  ‣ Diffusion Models 🌫️   
   ‣ Super Resolution 💻
 - Coding with: Python 🐍 / PyTorch 🔥 / C++ 🚀
 - 🎧 Music fan:  
