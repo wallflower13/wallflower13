@@ -5,9 +5,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-zhuoxuanli-4285F4?logo=google-scholar&logoColor=white&style=flat-square)](https://scholar.google.com/citations?user=_hGkKOEAAAAJ&hl=zh-CN)
 [![GitHub followers](https://img.shields.io/github/followers/wallflower13?label=GitHub&logo=github&style=flat-square)](https://github.com/wallflower13)
 [![Instagram](https://img.shields.io/badge/Instagram-%40midwestprince13-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/midwestprince13/)
-[![Bilibili](https://img.shields.io/badge/Bilibili-一辈子的傻脸-00A1D6?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/228791940)
 [![Email](https://img.shields.io/badge/Email-lizhuxuan04%40tongji.edu.cn-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:lizhuxuan04@tongji.edu.cn)
-[![Netease Cloud Music](https://img.shields.io/badge/网易云音乐-橙不言-F84B52?logo=netease-cloud-music&logoColor=white&style=flat-square)](https://music.163.com/#/user/home?id=446673535)
 
 ---
 
