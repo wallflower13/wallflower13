@@ -12,15 +12,13 @@
 ---
 
 - 🎓 **Undergraduate student** at 🇨🇳 [Tongji University](https://www.tongji.edu.cn), majoring in **Data Science**
-- 🧠 Research interests:  
-  ‣ Spatio-temporal Data Mining 🌍  
-  ‣ POI Recommendation 📍  
-  ‣ Graph Neural Networks 🔗  
-  ‣ Diffusion Models 🌫️   
-  ‣ Super Resolution 💻
-- Coding with: Python 🐍 / PyTorch 🔥 / C++ 🚀
+- Research interests:  
+  ‣ Spatio-temporal Data Mining  
+  ‣ Recommendation System   
+  ‣ Super Resolution 
+- Coding with: Python / PyTorch / C++
 - 🎧 Music fan:  
-  💖 Taylor Swift / 🌸 Selena Gomez / ✨ Gracie Abrams / 🔥 Miley Cyrus / 🎤 Lady Gaga  
+  Taylor Swift / Selena Gomez / Gracie Abrams / Miley Cyrus / Lady Gaga  
 - 🍿 Watching movies | 🏸 Playing badminton | 🎶 Listening music
 
 ---
